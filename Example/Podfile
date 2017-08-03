@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'iosThrymrPods_Example' do
+  pod 'iosThrymrPods', :path => '../'
+
+  target 'iosThrymrPods_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
