@@ -1,0 +1,22 @@
+{
+  "name": "iosThrymrPods",
+  "version": "0.1.0",
+  "summary": "A short description of iosThrymrPods.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ajaykolipaka18/iosThrymrPods",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ajaykolipaka18": "chaitanya@thrymr.net"
+  },
+  "source": {
+    "git": "https://github.com/ajaykolipaka18/iosThrymrPods.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "iosThrymrPods/Classes/**/*"
+}
